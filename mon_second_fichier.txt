@@ -1,0 +1,4 @@
+Et voila, c'est pas si compliqué.
+Un coup de main à prendre et évidemment... éviter les espaces dans les noms de fichier, c'est pas génial.
+
+PS : merci pour la correction :)
